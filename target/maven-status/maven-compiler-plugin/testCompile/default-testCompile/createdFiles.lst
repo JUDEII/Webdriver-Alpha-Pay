@@ -1,0 +1,14 @@
+pages\PasswordPage.class
+pages\LoginPage.class
+actions\SignUpTestSuite.class
+pages\DashboardPage.class
+methods\UniqueId.class
+pages\SignupPage.class
+actions\UpdateProfileTestSuite.class
+pages\StartBrowser.class
+actions\LogoutTestSuite.class
+actions\PasswordTestSuite.class
+pages\LandingPage.class
+testng\alphapay\AppTest.class
+actions\LoginTestSuite.class
+pages\UpdateProfilePage.class
